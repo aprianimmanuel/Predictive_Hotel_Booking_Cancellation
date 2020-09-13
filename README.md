@@ -24,7 +24,7 @@ Membuat Exploratory Data Analysis untuk:
 ### **C. Model Building & Hyper-parameter Tuning** 
 1) Melakukan _training_ 3  model ML. Untuk mendapatkan model ML terbaik untuk memprediksi apakah user akan *cancel booking* atau tidak! 
 
-2) Menjelaskan secara singkat cara kerja model ML yang Anda gunakan!
+2) Menjelaskan secara singkat cara kerja model ML yang digunakan!
 
 3) Meningkatkan performa model ML mengikuti instruksi *model evaluation*. 
 
