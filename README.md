@@ -10,8 +10,6 @@ Apabila kesulitan download dataset pada repo ini atau ingin mengetahui keteranga
 
 ![https://unsplash.com/photos/Koei_7yYtIo](./world.png)
 
-## **Instruksi Ujian**
-
 ### **A. Data Cleaning & Preprocessing** (15 poin)
 
 __Batasan Data:__
