@@ -22,9 +22,11 @@ Membuat Exploratory Data Analysis untuk:
 2) Memahami kebiasaan tamu/konsumen hotel (_customer behavior_).
 
 ### **C. Model Building & Hyper-parameter Tuning** 
-1) Melakukan _training_ 3  model ML yang Anda pahami, untuk mendapatkan model ML terbaik untuk memprediksi apakah user akan *cancel booking* atau tidak! Jelaskan secara singkat cara kerja model ML yang Anda gunakan!
+1) Melakukan _training_ 3  model ML. Untuk mendapatkan model ML terbaik untuk memprediksi apakah user akan *cancel booking* atau tidak! 
 
-2) Meningkatkan performa model ML mengikuti instruksi *model evaluation*. 
+2) Menjelaskan secara singkat cara kerja model ML yang Anda gunakan!
+
+3) Meningkatkan performa model ML mengikuti instruksi *model evaluation*. 
 
 ### **D. Model Evaluation** (30 poin)
 Ada **2 jenis kesalahan** yang mungkin terjadi dalam model ML di studi kasus ini, yaitu:
