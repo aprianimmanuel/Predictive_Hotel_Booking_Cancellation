@@ -10,7 +10,7 @@ Apabila kesulitan download dataset pada repo ini atau ingin mengetahui keteranga
 
 ![https://unsplash.com/photos/Koei_7yYtIo](./world.png)
 
-### **A. Data Cleaning & Preprocessing** (15 poin)
+### **A. Data Cleaning & Preprocessing**
 
 __Batasan Data:__
 * __Ukuran data__ yang digunakan adalah 5000 baris (_rows_) awal [:5000].
